@@ -5,7 +5,22 @@
       "hwid": "F5634F400128B2A0",
       "username": "TurexHunt",
       "expires": "never",
+      "role": "owner",
       "note": "Владелец"
+    },
+    {
+      "hwid": "14DBB8AD14A81E1E",
+      "username": "RonineRockstar",
+      "expires": "2067-12-31",
+      "role": "vip",
+      "note": "VIP пользователь"
+    },
+    {
+      "hwid": "HWID_СЮДА",
+      "username": "Shlup",
+      "expires": "2026-12-31",
+      "role": "Manager",
+      "note": "Менеджер"
     }
   ]
 }
