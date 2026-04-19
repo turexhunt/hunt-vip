@@ -21,6 +21,13 @@
       "expires": "2026-12-31",
       "role": "Manager",
       "note": "Менеджер"
-    }
+    },
+    {
+      "hwid": "5DD7E08255F6C258",
+      "username": "Koshazik",
+      "expires": "2067-12-31",
+      "role": "vip",
+      "note": "VIP пользователь"
+      
   ]
 }
