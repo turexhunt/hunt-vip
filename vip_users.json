@@ -21,7 +21,42 @@
       "expires": "2026-12-31",
       "role": "VIP",
       "note": "VIP"
+    },
+
+    {
+      "hwid": "AC64FED571795088",
+      "username": "DezDand",
+      "expires": "2067-11-02",
+      "role": "vip",
+      "note": "тест"
+    },
+    {
+      "hwid": "ВСТАВЬТЕ_HWID",
+      "username": "ВСТАВЬТЕ_ИМЯ",
+      "expires": "YYYY-MM-DD",
+      "role": "vip",
+      "note": "Описание"
+    },
+    {
+      "hwid": "ВСТАВЬТЕ_HWID",
+      "username": "ВСТАВЬТЕ_ИМЯ",
+      "expires": "YYYY-MM-DD",
+      "role": "vip",
+      "note": "Описание"
+    },
+    {
+      "hwid": "ВСТАВЬТЕ_HWID",
+      "username": "ВСТАВЬТЕ_ИМЯ",
+      "expires": "YYYY-MM-DD",
+      "role": "vip",
+      "note": "Описание"
+    },
+    {
+      "hwid": "ВСТАВЬТЕ_HWID",
+      "username": "ВСТАВЬТЕ_ИМЯ",
+      "expires": "YYYY-MM-DD",
+      "role": "vip",
+      "note": "Описание"
     }
   ]
 }
-
