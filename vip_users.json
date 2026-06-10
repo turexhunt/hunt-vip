@@ -38,11 +38,11 @@
       "note": "test"
     },
     {
-      "hwid": "ВСТАВЬТЕ_HWID",
-      "username": "ВСТАВЬТЕ_ИМЯ",
-      "expires": "YYYY-MM-DD",
+      "hwid": "A917138594BD6ABE",
+      "username": "detect",
+      "expires": "2026-07-10",
       "role": "vip",
-      "note": "Описание"
+      "note": "vip"
     },
     {
       "hwid": "ВСТАВЬТЕ_HWID",
