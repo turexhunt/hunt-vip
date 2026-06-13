@@ -24,18 +24,18 @@
     },
 
     {
-      "hwid": "AC64FED571795088",
-      "username": "DezDand",
+      "hwid": "HWID",
+      "username": "US",
       "expires": "2067-11-02",
       "role": "vip",
-      "note": "тест"
+      "note": "vip"
     },
     {
-      "hwid": "3BE1CF97C61AE0D",
-      "username": "hatsu",
-      "expires": "2026-06-12",
+      "hwid": "HWID",
+      "username": "us",
+      "expires": "2488-06-12",
       "role": "vip",
-      "note": "test"
+      "note": "vip"
     },
     {
       "hwid": "A917138594BD6ABE",
