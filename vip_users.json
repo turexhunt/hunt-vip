@@ -2,7 +2,7 @@
   "version": 1,
   "users": [
     {
-      "hwid": "F5634F400128B2A0",
+      "hwid": "CC25508E89D15DA7",
       "username": "TurexHunt",
       "expires": "2034-12-31",
       "role": "owner",
@@ -10,7 +10,7 @@
     },
     {
       "hwid": "14DBB8AD14A81E1E",
-      "username": "RonineRockstar",
+      "username": "RonineCostar",
       "expires": "2067-12-31",
       "role": "vip",
       "note": "VIP пользователь"
@@ -26,7 +26,7 @@
     {
       "hwid": "7DF5EE5DD8A97B30",
       "username": "US",
-      "expires": "2026-06-17",
+      "expires": "2026-06-28",
       "role": "vip",
       "note": "vip"
     },
